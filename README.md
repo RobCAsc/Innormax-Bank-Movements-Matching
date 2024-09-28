@@ -50,7 +50,8 @@ Manual reconciliation between banking statements and SAP records is time-consumi
 - **Manual Review:** Unmatched transactions will be manually reviewed by a team or escalated as needed.
 
 ### Prototype Results
-The prototype successfully matched 85% of transactions between bank statements and SAP records. The remaining transactions were either unmatched or flagged for review.
+The prototype successfully matched 90% of transactions between bank statements and SAP records. The remaining transactions were either unmatched or flagged for review.
+This results are based on dummy data tailored to the test, results on a production environment might change.
 
 ### Sample Output
 
